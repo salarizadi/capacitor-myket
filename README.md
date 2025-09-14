@@ -1,7 +1,7 @@
 # @salarizadi/capacitor-myket
 
-[![npm version](https://img.shields.io/npm/v/@salarizadi/capacitor-myket-billing?color=brightgreen&label=npm)](https://www.npmjs.com/package/@salarizadi/capacitor-myket)
-[![Downloads](https://img.shields.io/npm/dt/@salarizadi/capacitor-myket-billing)](https://www.npmjs.com/package/@salarizadi/capacitor-myket)
+[![npm version](https://img.shields.io/npm/v/@salarizadi/capacitor-myket?color=brightgreen&label=npm)](https://www.npmjs.com/package/@salarizadi/capacitor-myket)
+[![Downloads](https://img.shields.io/npm/dt/@salarizadi/capacitor-myket)](https://www.npmjs.com/package/@salarizadi/capacitor-myket)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Capacitor 6](https://img.shields.io/badge/Capacitor-6+-blue?logo=capacitor)](https://capacitorjs.com)
 
