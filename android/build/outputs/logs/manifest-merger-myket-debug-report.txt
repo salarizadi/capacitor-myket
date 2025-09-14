@@ -1,0 +1,32 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		INJECTED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#ir.mservices.market.BILLING
+ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:2:5-67
+	android:name
+		ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:2:22-64
+queries
+ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:3:5-8:15
+package#ir.mservices.market
+ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:4:9-55
+	android:name
+		ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:4:18-52
+intent#action:name:ir.mservices.market.InAppBillingService.BIND
+ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:5:9-7:18
+action#ir.mservices.market.InAppBillingService.BIND
+ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:6:13-83
+	android:name
+		ADDED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml:6:21-80
+uses-sdk
+INJECTED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\CapacitorJS\@salarizadi\capacitor-myket\android\src\main\AndroidManifest.xml

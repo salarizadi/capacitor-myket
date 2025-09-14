@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ir.salarizadi.plugins.myket" >
+
+    <uses-sdk android:minSdkVersion="26" />
+
+    <uses-permission android:name="ir.mservices.market.BILLING" />
+
+    <queries>
+        <package android:name="ir.mservices.market" />
+
+        <intent>
+            <action android:name="ir.mservices.market.InAppBillingService.BIND" />
+
+            <data android:mimeType="*/*" />
+        </intent>
+    </queries>
+
+</manifest>
